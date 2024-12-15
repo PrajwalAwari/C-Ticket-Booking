@@ -23,7 +23,7 @@ Return Values: Functions return values to indicate success or failure, allowing 
 4.Follow the Prompts: Enter the required movie details, select a seating circle, and receive the calculated ticket cost.
 
 # Screenshot
-![Project Screenshot](./Screenshot (5).png
+![Project Screenshot] (./Screenshot (5).png
 
 # Acknowledgements
 C Programming Language: This project demonstrates the fundamental concepts of C programming.
