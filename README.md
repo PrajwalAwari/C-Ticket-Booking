@@ -22,10 +22,15 @@ Return Values: Functions return values to indicate success or failure, allowing 
 3.Run the Program: Execute the compiled program.
 4.Follow the Prompts: Enter the required movie details, select a seating circle, and receive the calculated ticket cost.
 
+#Screenshot
+![Project Screenshot] (./Screenshot (5).png
+
 Acknowledgements
 C Programming Language: This project demonstrates the fundamental concepts of C programming.
 Open Source Community: Inspired by the collaborative spirit of the open-source community, which encourages learning and sharing knowledge.
 Educational Resources: Utilized various online resources and documentation to enhance understanding of C programming concepts and best practices.
+
+
 
 #Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
