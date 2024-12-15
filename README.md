@@ -1,4 +1,4 @@
-# C-Ticket-Booking
+ # C-Ticket-Booking
 This project is a simple Movie Ticket Booking System implemented in C. It allows users to enter details about a movie, select a seating circle, and calculates the ticket cost based on the selected category and circle. The program is designed to demonstrate fundamental C programming concepts.
 
 # Features
@@ -23,7 +23,7 @@ Return Values: Functions return values to indicate success or failure, allowing 
 4.Follow the Prompts: Enter the required movie details, select a seating circle, and receive the calculated ticket cost.
 
 # Screenshot
-![Project Screenshot] (./Screenshot(5).png)
+![Project Screenshot](./Screenshot(5).png)
 
 # Acknowledgements
 C Programming Language: This project demonstrates the fundamental concepts of C programming.
